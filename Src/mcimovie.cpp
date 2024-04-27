@@ -1,5 +1,8 @@
 // mcimovie.cpp
 
+#include <iostream>
+#include <string>
+
 // MCIMoviePlayer class
 MCIMoviePlayer::MCIMoviePlayer(const std::string& fileName) {
     // Attempt to open the file
